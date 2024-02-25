@@ -1,3 +1,5 @@
+# Exploring Credit Risk, Unveiling the Financial Landscape
+
 Welcome to my credit risk project, where I will be exploring the complex field of finance to determine the risks involved in giving credit to people with different backgrounds. I have set out to clarify the complex interactions that exist between a person's creditworthiness and other criteria such as work status, skill sets, and demographics through the thorough analysis of an extensive dataset.
 
 Project Highlights:
